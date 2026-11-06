@@ -53,6 +53,8 @@ Note: the Week 2 baseline used the pretrained ImageNet head directly and gave be
 
 All notebooks run on Google Colab with a T4 GPU. Main libraries: PyTorch, torchvision, OpenCLIP, timm, scikit-learn.
 
-## Report
+## Paper
 
-The work is written up as a paper in IEEE conference format (not yet published).
+The full write-up is available here: [OSR_CLIP_ViT_Paper.pdf](OSR_CLIP_ViT_Paper.pdf)
+
+Written in IEEE conference format as part of the NIT Calicut research internship (not published).
